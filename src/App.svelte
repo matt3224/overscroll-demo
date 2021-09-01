@@ -14,7 +14,7 @@
 
 <style>
 	:global(body) {
-		height: 1000px
+		height: 2000px
 	}
 	div {
 		position: sticky;
